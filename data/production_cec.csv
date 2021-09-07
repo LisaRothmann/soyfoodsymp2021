@@ -1,0 +1,145 @@
+crop,year,province,yield_ton,area_ha,provabbrev
+soybean,2006,Eastern Cape,750,500,EC
+soybean,2006,Free State,77000,45000,FS
+soybean,2006,Gauteng,10730,6500,GP
+soybean,2006,KwaZulu Natal,62500,25000,KZN
+soybean,2006,Limpopo,34450,13000,L
+soybean,2006,Mpumalanga,210000,140000,MP
+soybean,2006,North West,27000,10000,NW
+soybean,2006,Northern Cape,1500,500,NC
+soybean,2006,Western Cape,70,70,WC
+soybean,2007,Eastern Cape,1000,500,EC
+soybean,2007,Free State,33750,45000,FS
+soybean,2007,Gauteng,4150,5000,GP
+soybean,2007,KwaZulu Natal,45100,20500,KZN
+soybean,2007,Limpopo,25000,12500,L
+soybean,2007,Mpumalanga,76500,90000,MP
+soybean,2007,North West,18000,9000,NW
+soybean,2007,Northern Cape,1500,500,NC
+soybean,2007,Western Cape,,300,WC
+soybean,2008,Eastern Cape,750,500,EC
+soybean,2008,Free State,64500,48000,FS
+soybean,2008,Gauteng,5500,3400,GP
+soybean,2008,KwaZulu Natal,44000,17500,KZN
+soybean,2008,Limpopo,22500,7500,L
+soybean,2008,Mpumalanga,128000,82000,MP
+soybean,2008,North West,15000,6000,NW
+soybean,2008,Northern Cape,1750,500,NC
+soybean,2008,Western Cape,,,WC
+soybean,2009,Eastern Cape,1600,800,EC
+soybean,2009,Free State,99000,55000,FS
+soybean,2009,Gauteng,12525,6700,GP
+soybean,2009,KwaZulu Natal,75600,27000,KZN
+soybean,2009,Limpopo,44000,16000,L
+soybean,2009,Mpumalanga,262500,125000,MP
+soybean,2009,North West,18525,6500,NW
+soybean,2009,Northern Cape,2250,750,NC
+soybean,2009,Western Cape,,,WC
+soybean,2010,Eastern Cape,1200,800,EC
+soybean,2010,Free State,151950,95000,FS
+soybean,2010,Gauteng,20400,12000,GP
+soybean,2010,KwaZulu Natal,73500,30000,KZN
+soybean,2010,Limpopo,50400,18000,L
+soybean,2010,Mpumalanga,239600,145000,MP
+soybean,2010,North West,27000,10000,NW
+soybean,2010,Northern Cape,1950,650,NC
+soybean,2010,Western Cape,,,WC
+soybean,2011,Eastern Cape,1500,1000,EC
+soybean,2011,Free State,190000,135000,FS
+soybean,2011,Gauteng,21700,14000,GP
+soybean,2011,KwaZulu Natal,92000,34000,KZN
+soybean,2011,Limpopo,58800,23500,L
+soybean,2011,Mpumalanga,294500,190000,MP
+soybean,2011,North West,50000,20000,NW
+soybean,2011,Northern Cape,1500,500,NC
+soybean,2011,Western Cape,,,WC
+soybean,2012,Eastern Cape,750,500,EC
+soybean,2012,Free State,192500,175000,FS
+soybean,2012,Gauteng,28500,19000,GP
+soybean,2012,KwaZulu Natal,81600,34000,KZN
+soybean,2012,Limpopo,50600,22000,L
+soybean,2012,Mpumalanga,263050,200000,MP
+soybean,2012,North West,31500,21000,NW
+soybean,2012,Northern Cape,1500,500,NC
+soybean,2012,Western Cape,,,WC
+soybean,2013,Western Cape,,,WC
+soybean,2013,Eastern Cape,750,500,EC
+soybean,2013,Free State,249500,215000,FS
+soybean,2013,Gauteng,34000,20000,GP
+soybean,2013,KwaZulu Natal,82000,32000,KZN
+soybean,2013,Limpopo,53500,20000,L
+soybean,2013,Mpumalanga,335000,205000,MP
+soybean,2013,North West,22750,22000,NW
+soybean,2013,Northern Cape,7000,2000,NC
+soybean,2014,Western Cape,,,WC
+soybean,2014,Eastern Cape,3600,2000,EC
+soybean,2014,Free State,352000,201000,FS
+soybean,2014,Gauteng,47360,20000,GP
+soybean,2014,KwaZulu Natal,98000,35000,KZN
+soybean,2014,Limpopo,66000,22000,L
+soybean,2014,Mpumalanga,335000,203000,MP
+soybean,2014,North West,32000,16000,NW
+soybean,2014,Northern Cape,14040,3900,NC
+soybean,2015,Western Cape,1600,800,WC
+soybean,2015,Northern Cape,14000,4000,NC
+soybean,2015,Free State,366000,305000,FS
+soybean,2015,Eastern Cape,2100,1500,EC
+soybean,2015,KwaZulu Natal,102900,42000,KZN
+soybean,2015,Mpumalanga,389900,245000,MP
+soybean,2015,Limpopo,72000,24000,L
+soybean,2015,Gauteng,69000,30000,GP
+soybean,2015,North West,52500,35000,NW
+soybean,2016,Western Cape,1200,800,WC
+soybean,2016,Northern Cape,13600,4000,NC
+soybean,2016,Free State,148000,174000,FS
+soybean,2016,Eastern Cape,2100,1500,EC
+soybean,2016,KwaZulu Natal,66000,28000,KZN
+soybean,2016,Mpumalanga,408000,240000,MP
+soybean,2016,Limpopo,38400,16000,L
+soybean,2016,Gauteng,50600,23000,GP
+soybean,2016,North West,14100,15500,NW
+soybean,2017,Western Cape,1050,700,WC
+soybean,2017,Northern Cape,10500,3000,NC
+soybean,2017,Free State,504000,240000,FS
+soybean,2017,Eastern Cape,2775,1850,EC
+soybean,2017,KwaZulu Natal,89605,30500,KZN
+soybean,2017,Mpumalanga,554300,241000,MP
+soybean,2017,Limpopo,29750,8500,L
+soybean,2017,Gauteng,71120,25400,GP
+soybean,2017,North West,52900,23000,NW
+soybean,2018,Western Cape,1200,800,WC
+soybean,2018,Northern Cape,10500,3000,NC
+soybean,2018,Free State,552000,345000,FS
+soybean,2018,Eastern Cape,2900,2400,EC
+soybean,2018,KwaZulu Natal,124000,40000,KZN
+soybean,2018,Mpumalanga,672700,310000,MP
+soybean,2018,Limpopo,54000,20000,L
+soybean,2018,Gauteng,61500,30000,GP
+soybean,2018,North West,61200,36000,NW
+soybean,2019,Western Cape,10,100,WC
+soybean,2019,Northern Cape,5425,1550,NC
+soybean,2019,Free State,391300,301000,FS
+soybean,2019,Eastern Cape,1380,1150,EC
+soybean,2019,KwaZulu Natal,99000,33000,KZN
+soybean,2019,Mpumalanga,511500,310000,MP
+soybean,2019,Limpopo,46980,16200,L
+soybean,2019,Gauteng,66150,31500,GP
+soybean,2019,North West,48600,36000,NW
+soybean,2020,Western Cape,,,WC
+soybean,2020,Northern Cape,7000,2000,NC
+soybean,2020,Free State,519750,315000,FS
+soybean,2020,Eastern Cape,3000,1500,EC
+soybean,2020,KwaZulu Natal,101500,35000,KZN
+soybean,2020,Mpumalanga,416000,260000,MP
+soybean,2020,Limpopo,48050,15500,L
+soybean,2020,Gauteng,70200,36000,GP
+soybean,2020,North West,80000,40000,NW
+soybean,2021,Western Cape,,,WC
+soybean,2021,Northern Cape,3500,1000,NC
+soybean,2021,Free State,766500,365000,FS
+soybean,2021,Eastern Cape,9300,3100,EC
+soybean,2021,KwaZulu Natal,129600,36000,KZN
+soybean,2021,Mpumalanga,638000,290000,MP
+soybean,2021,Limpopo,71750,20500,L
+soybean,2021,Gauteng,105000,42000,GP
+soybean,2021,North West,166800,69500,NW
