@@ -70,15 +70,28 @@ options(scipen=999)
 
 # growth
 ```{r}
+prod <- prod %>% 
+  mutate(t.ha = yield_ton/area_ha) 
+
+prod_avg <- prod %>% 
+  group_by(province) %>% 
+  summarise(avg_tonnage = mean(t.ha, na.rm = T))
+
+
 options(scipen=999)
-prod %>% select(year, province, area_ha) %>% 
-  filter(province == "Eastern Cape") %>% 
-  ggplot(aes(year, area_ha))+
+plot1 <- prod %>% select(year, province, t.ha) %>% 
+  #filter(province %in% c("Northern Cape", "Eastern Cape", "Western Cape")) %>% 
+  ggplot(aes(year, t.ha))+
   geom_point(size = 3)+
-  scale_y_continuous(breaks=seq(0, 5000, 500))+
-  scale_x_continuous(breaks=seq(2006,2021,1))+
+    scale_y_continuous(breaks=seq(0, 4, 0.5))+
+  #scale_x_continuous(breaks=seq(2006,2021,1))+
   facet_wrap(~province)+
    labs(x = "Year", 
-       y = "Area Planted (ha)")
+       y = "Tonnage (t.ha)")+
+  theme_classic(base_size = 22)
+
+plot1+
+  geom_hline(aes(yintercept = avg_tonnage), prod_avg,  linetype = "dashed", color = "red")
+ggsave(file="vis/annual_tha_contrasts.png", units = "cm", width=30, height=25)
 ```
 
